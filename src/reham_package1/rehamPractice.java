@@ -6,6 +6,14 @@ public class rehamPractice {
     // i will do it no other chance
     //only plan A
 
+    //hello all
+
+    // object
+
+
+
+
+
 
 
 
